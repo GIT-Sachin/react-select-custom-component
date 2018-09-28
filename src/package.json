@@ -1,0 +1,13 @@
+{
+  "name": "react-codesandboxer-example",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "@atlaskit/tooltip": "^9.1.4",
+    "create-react-class": "15.6.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-select": "2.0.0"
+  }
+}

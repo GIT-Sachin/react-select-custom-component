@@ -1,0 +1,22 @@
+{
+  "name": "react-codesandboxer-example",
+  "version": "0.0.43",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "@atlaskit/tooltip": "^9.1.4",
+    "create-react-class": "15.6.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-select": "2.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
